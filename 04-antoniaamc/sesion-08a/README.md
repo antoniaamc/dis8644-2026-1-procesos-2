@@ -6,6 +6,32 @@ Llegué muy tarde ups... trabajamos en Kicad por primera vez
 
 FALTA: Terminar esquemáticos, revisar la cápsula de la clase, subir capturas y lo que se vio en el archivo de Kicad
 
+## Metodología
+
+1) Dibujar esquemático (.kicad_sch)  
+2) Asociar huellas a símboloes  
+3) Abrir PCB New (para crear la PCB), intérprete del esquemático  
+4) Definir tamaño de las pistas  
+5) Repartir componentes físicamente  
+6) Rutear componentes  
+7) Ornamentar y exportar para fabricación
+
+## Atajos
+
+- `M` Move: se mueve el componente **sin** el cable  
+- `G` Grab: se mueve el componente **con** el cable
+- `R` Rotate: rotación en 90°
+- `X` : reflejar en torno al eje X
+- `W` Wire: modo cable
+
+Para ver más atajos, en el editor de esquemas seleccionar `Ayuda` Listar atajos de teclado → ctrl+`F` / cmd+`F`
+
+- *Mantener click*   
+⬆️ Selecciona todo lo que toca  
+⬇️ Selecciona todo lo que envuelve
+
+--------------------------------------------
+
 ## Componentes (nombres en librería)  
 - Resistencias → `R` / `Device:R`  
 - Capacitores:
@@ -69,7 +95,7 @@ Ejemplo:
 ---
 
 ## Conexiones en esquemático
-- `●` → conexión real  
+- `●` → conexión real (nodo)
 - cruce sin punto → conexión  
 - `▢` → punto de edición (no conexión)
 
