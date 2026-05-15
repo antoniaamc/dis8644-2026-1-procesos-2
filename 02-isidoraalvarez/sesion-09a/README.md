@@ -47,3 +47,8 @@ usaremos 7 capas:
 | Header 2 pines | `Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical` | Conexiones simples |
 | Header 1 pin | `Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical` | Entrada o señal individual |
 | Header 4 pines | `Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical` | Salidas Step1-Step4 |
+
+
+texto: hacia una filosofia de la fotografia-Vilem Flusser
+
+
