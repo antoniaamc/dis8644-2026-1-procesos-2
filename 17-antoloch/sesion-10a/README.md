@@ -94,3 +94,47 @@ Esquemático 1
 
 lectura de libro de Flusser, capítulo 1
 
+##  Dos vistas
+- El registro: la imagen misma.  
+- La vista del observador: depende de quién la mira.  
+- La imagen no tiene un significado único, cada persona la interpreta de diferentes maneras.  
+- Genera distintas emociones, lecturas e interpretaciones.  
+- Son connotativas: una imagen puede transmitir tristeza, nostalgia, felicidad, etc., aunque no sea explícito.  
+- Las imágenes tienen un significado mágico: producen emociones rápidas, simbólicas, y muchas veces reaccionamos antes de analizarlas.  
+- La imagen tiene mucho poder.  
+
+---
+
+## Idolatría
+- Ocurre cuando olvidamos que la imagen es una representación.  
+- Entonces las personas empiezan a creer que la imagen es la realidad.  
+- Ejemplo de la actualidad: las redes sociales y la publicidad.  
+  -  yo siempr me comparaba (cuando era mas petite),  físicamente con mujeres de redes sociales que quizás ni siquiera eran reales  y esten editadas, filtradas, etc...  
+  - a muchas mujeres les pasa, en las publicidades y en redes sociales en general.  
+- Por eso tenemos que tener la visión crítica de que no todo lo que vemos es realmente como se ve.  
+
+---
+
+## conciencia histórica y conciencia mágica
+- Flusser habla de dos maneras:  
+  - **Conciencia mágica**: relacionada con las imágenes.  
+  - **Conciencia histórica**: relacionada con el texto y la escritura.  
+- Existe una tensión entre pensar críticamente o dejarse llevar por imágenes y símbolos.  
+
+
+##  Textolatría y   Idolatría
+- **Idolatría**: adornar imágenes y creer ciegamente en ellas.  
+- **Textolatría**: creer que los textos y conceptos explican absolutamente todo.  
+- tanto las imágenes como los textos pueden dominar nuestra forma de pensar.  
+
+
+##  Imágenes y texto
+- **Imagen**: inmediata, emocional, abierta a interpretación.  
+- **Texto**: lineal, racional, explicativo.  
+- Son distintas formas de ver y entender el mundo.  
+
+
+- Bueno, el capítulo me hizo pensar mucho sobre la realidad en la que vivimos.  
+- Vivimos llenos de imágenes que consumimos sin analizarlas realmente.  
+- Es importante tener conciencia crítica y no dejarnos dominar ni por las imágenes ni por los textos.  
+
