@@ -26,7 +26,7 @@ Ya con estos pasos en cuenta, continuemos con la clase:
 Cuando un archivo ya está creado y guardado, se abre desde la extensión:
 `.Kicad_pro`, ya que es todo el proyecto:
 
-![kicadpreee](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img1.png)
+![kicadpreee](./imagenes/img1.png)
 
 ## 2. Atajos de teclado
 
