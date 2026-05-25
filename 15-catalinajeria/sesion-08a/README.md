@@ -2,7 +2,7 @@
   <img src="./imagenes/Gato.gif" width="180">
 </p>
 
-<h1 align="center">🌸 Clase 08a — Primer acercamiento a ![KiCad] (https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 🌸</h1>
+![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
 
 <p align="center">
   <b>Bitácora de clase — Diseño de circuitos y placas PCB</b><br>
