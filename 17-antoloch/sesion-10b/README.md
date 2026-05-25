@@ -45,7 +45,6 @@ En esta clase vimos diferentes dudas, entre todos nos ayudamos y se resulvieron 
 - Para encontrarlos: buscar **SW_SPST** o **SW_SPDT**.  
 - Asignar huella: `[Button_Switch_THT:SW_PUSH_6mm]`.  
 
----
 
 ## Bibliotecas de símbolos
 - Crear carpeta propia en **Symbol Editor** dentro del proyecto `.pro`.  
@@ -53,18 +52,21 @@ En esta clase vimos diferentes dudas, entre todos nos ayudamos y se resulvieron 
 - Activar bibliotecas → **File → New Library** → guardar.  
 - Copiar componente → pegar en carpeta → editar → guardar.  
 
----
 
 ## Etiquetas
 - Conectar sin cableado en esquemático: tecla **L** (Label).  
 - Evita error de pin no conectado.  
 - Desde batería: usar etiqueta **PWG_FLAG**.  
 
----
 - Cambiar de cara componentes: seleccionar → tecla **F**.  
 
 ---
 
 ## 3D
 - Seleccionar huella en `.pcb` → tecla **E** → menú **3D Models** → cargar modelos descargados.  
-- Exportar placa completa: **File → Export → STEP/STL/etc.**  
+- Exportar placa completa: **File → Export → STEP/STL/etc.**
+
+Cap 2 y 3 
+
+  
+ 
