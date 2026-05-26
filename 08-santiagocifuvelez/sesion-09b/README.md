@@ -6,6 +6,24 @@
 
 Ahora sí, veamos que hicimos en esta clase:
 
+1.	Entrega de Encargo y dudas que surgieron de allí.  
+2.	Botones.  
+   
+Comencemos :)
+
+## 1.	Entrega de Encargo.
+
+El proyecto del cual tuve el privilegio de participar, le llamamos “Precarias”, y fue un sintetizador de onda cuadrada, el cual estaba compuesto por 4 módulos, y cada uno de ellos, tiene un chip (cada chip tiene como su propia casa), los cuales son:
+
+*Modulo 1:* **CLOCK – 555**
+*Modulo 2:* **SECUENCIADOR – 4017**
+*Modulo 3:* **SINTETIZADOR – 4093**
+*Modulo 4:* **SALIDA – AMPLIFICADOR – LM386**
+
+> Ahora sí, partamos con el esquemático:
+
+Primero creamos y abrimos nuestro proyecto en Kicad.
+
 **Capítulo 2: La imagen técnica.**  
 Este capítulo es una reflexión sobre la función de la imagen en nuestra vida cotidiana, y la relación que tenemos con esta. Veamos que más dice…
 
