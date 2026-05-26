@@ -71,6 +71,6 @@ Y estas son las tareas que realicé para el grupo
 
 ![imagen 1](./imagenes/avance1.png)
 
-![imagen 2](./imagenes/avance1.png)
+![imagen 2](./imagenes/avance2.png)
 
-![imagen 3](./imagenes/avance1.png)
+![imagen 3](./imagenes/avance3.png)
