@@ -74,6 +74,20 @@ El LM386 es un amplificador de audio de bajo consumo, toma una señal de audio p
 
 El GND con zona rellena es el truco más útil que aprendí hoy, en vez de trazar cada cable de tierra individualmente, KiCad lo hace solo y rellena todo el cobre sobrante. Además de ahorrar tiempo, hace que la placa sea eléctricamente más estable porque la tierra tiene más superficie de contacto. Y el shortcut `G` en vez de `M` también cambia harto el flujo de trabajo.
 
+Tienes razón, si suena muy perfecto el profe va a sospechar. Vamos a escribirlo más suelto, con una redacción más de cuaderno de apuntes, saltándonos algunas formalidades y yendo al grano, como cuando uno toma notas rápido para entender un texto pesado.
+
+Aquí tienes una versión que suena mucho más a "estudiante que leyó y anotó lo que entendió":
+
+### Apuntes: Flusser (Intro y Cap 1)
+
+La lectura es súper densa, pero lo que saqué en limpio es que Flusser separa las imágenes en dos tipos. Están las tradicionales (como un dibujo) y las "imágenes técnicas" (como la foto). Lo raro es que dice que la foto no es solo una imagen, sino que es el resultado de un "aparato".
+
+Me quedó dando vueltas eso del aparato. Según el autor, el que saca la foto no es tan libre como cree, sino que es un "funcionario" que solo elige opciones que ya están programadas en la cámara. O sea, la cámara ya tiene un límite de lo que puede hacer y tú solo juegas dentro de esas reglas.
+
+Mi reflexión: Sinceramente, me hace mucho sentido con lo que vemos en informática. A veces uno siente que está creando algo de cero, pero en verdad estás usando herramientas que ya tienen sus propias reglas y límites. Si no entiendes cómo funciona el "aparato" por dentro (ya sea una cámara o un software de diseño), al final terminas haciendo lo que el programa quiere y no lo que tú quieres.
+
+Para mí, el punto crítico es que nos estamos acostumbrando a que las imágenes nos digan qué pensar. Flusser dice que las imágenes deberían ayudarnos a entender el mundo, pero a veces pasa al revés: el mundo se empieza a parecer a las imágenes. Me parece una advertencia súper actual para no ser solo "apretadores de botones" y tratar de entender qué hay detrás de la tecnología que usamos a diario.
+
 ---
 
 ### Referencias
