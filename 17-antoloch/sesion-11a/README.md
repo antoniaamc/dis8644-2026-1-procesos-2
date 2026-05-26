@@ -78,4 +78,15 @@ La pizarra mounstrosa de misaa:
 
 ![misaaapuntes](./imagenes/misaaapuntes.png). 
 
-Cap 4 y 5
+## Cap 4 y 5
+
+Aquí Flusser compara el acto de fotografiar con el acto de cazar. En la caza, el cazador persigue y captura a su presa. En la fotografía, el fotógrafo “captura” imágenes. Pero la cámara hace lo que el fotógrafo quiere que haga, y al mismo tiempo el fotógrafo hace lo que la cámara está programada para permitir. Dependencia 
+ Se vuelve hablar de  que el fotógrafo tiene una libertad que está condicionada: el objeto debe estar en armonía con el programa de la cámara. Por ejemplo, el modo retrato en el celular, se puede elegir a quién fotografiar, pero el aparato (el celular) ya decidió cómo debe verse un retrato (qué desenfocar, cómo iluminar). Entonces tu libertad es relativa: eliges el momento y el encuadre, pero dentro de las reglas que tiene el celu o el aparto.
+Que sentido darle a la foto, hartas personas pueden fotografiar el mismo lugar, pero cada una puede transmitir algo distinto.
+
+FLusser explica que la fotografía es un lenguaje que transforma hechos en escenas y recuerdos, y que nunca es un espejo fiel de la realidad.
+Una foto en blanco y negro lo demuestra: la realidad no es en blanco y negro, pero la foto igual se percibe como “real”. Eso revela que la fotografía no refleja, sino que construye. No solo guarda un momento, también moldea la memoria. Muchas veces recordamos más lo que está en la foto que lo que realmente pasó. En ese sentido, la fotografía convierte conceptos en imágenes y organiza nuestra relación con el pasado. 
+Cuando saco fotos y despues al tiempo veo mi galería,  mi memoria se organiza en torno a esas imágenes. 
+La fotografía no solo guarda momentos, también me dice cómo debo recordarlos.
+
+
