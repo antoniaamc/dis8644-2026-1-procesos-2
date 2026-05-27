@@ -35,35 +35,31 @@ Como nuestro proyecto es de filtros, necesitamos "limpiar" la señal (input y ou
 
 ### Libro Hacia una filosofía de la fotografía, continuación de la lectura...
 
-Cap 2: El Aparato y la Caja Negra (KiCad vs. Realidad)
-<p>
- Al leer sobre el 'Aparato', no pude evitar pensar en el KiCad. Flusser dice que un aparato es una 'caja negra' porque usamos su programa sin saber exactamente qué pasa en el código interno. En el ramo, cuando pasamos del esquema al PCB y lo vemos en 3D, estamos usando un aparato que ya tiene 'pre-programado' cómo debe verse una placa. El riesgo, como dice Flusser, es quedarnos solo en la superficie. Por eso, aprender a leer los circuitos y entender qué hace cada componente en la protoboard es como intentar abrir esa caja negra para no ser solo usuarios que aprietan botones, sino diseñadores que entienden la lógica interna.
-</p>
+Cap. 6: La recepción de la fotografía (De consumidores a sujetos críticos)
 
-Cap 3: El Gesto de Fotografiar (Cazar el diseño del Filtro)
-<p>
-  Flusser habla del 'gesto' como una cacería de posibilidades dentro de un programa. Esto me pasó tal cual eligiendo las propuestas para el proyecto de filtros. No es que inventé la electricidad, sino que 'cacé' las mejores combinaciones de resistencias y condensadores dentro de lo que la teoría de filtros permite. Mi 'gesto' en el KiCad, moviendo componentes y ruteando pistas, es exactamente esa búsqueda que describe Flusser, elegir entre las infinitas opciones que el programa me da para que el filtro funcione y se pueda mandar a fabricar.
-</p>
+Este capítulo me hizo mucho sentido por lo que vivimos en el Proyecto 1. Flusser dice que la gente ya no 'lee' las imágenes técnicas, solo las consume pasivamente. Con mi grupo anterior, nos propusimos justamente romper eso, queríamos que las personas vieran el funcionamiento detrás de la secuencia de sonidos y notas. No queríamos que solo escucharan, sino que entendieran la lógica del circuito. Fue súper efectivo porque surgieron preguntas y la gente empezó a cuestionarse cosas, les abrimos un mundo nuevo. Eso es lo que busco como diseñadora, que mi trabajo no sea algo que se recibe 'porque sí', sino que invite a entender el concepto que hay detrás, ya sea un sonido o un filtro de frecuencias.
 
-Cap 4: La Fotografía (La placa 3D como Imagen Técnica)
-<p>
-  Este capítulo dice que las imágenes técnicas son conceptos convertidos en imágenes. La visualización 3D de nuestra placa de filtros no es la placa real todavía, es una 'imagen técnica' basada en las leyes de la física y la electrónica que el software traduce. Lo que Flusser advierte es que no debemos confundir esa imagen con la realidad. Por eso es tan importante armar el circuito en la protoboard, ahí es donde la teoría (el concepto) se choca con la materia real y vemos si el filtro de verdad filtra o si solo se veía bonito en el render del KiCad.
-</p>
+Cap. 7: El universo fotográfico (No perderse en la simulación)
 
-Cap 5: La Distribución (De la pantalla a la fabricación)
-<p>
-  Flusser explica que en la era de los aparatos lo que importa es la información, no la materia, porque la info se puede reproducir mil veces. Esto lo veo directo en nuestro flujo de trabajo, una vez que terminamos el diseño de los filtros en KiCad, lo que mandamos a la fábrica no es una placa física, es un archivo (información). La fábrica es el aparato que 'distribuye' nuestro diseño en serie. Como dice Flusser, mi rol cambia, ya no soy un artesano que lija cobre, soy un programador de hardware que genera información para que una máquina la ejecute.
-</p>
+En este capítulo, Flusser plantea que hemos llegado a un punto donde la realidad parece existir solo si tiene una imagen técnica que la respalde. En el contexto del diseño electrónico, este fenómeno se observa cuando la atención se desplaza del objeto físico hacia su representación digital, es decir, cuando el diseño parece quedar validado únicamente por el render 3D o la simulación en KiCad.
 
-Conclusión Personal: **La Libertad y la Rebeldía de Diseñar**
+El riesgo que advierte el autor es la inversión de la realidad, diseñar exclusivamente para satisfacer los parámetros del software, olvidando que la función real del objeto ocurre fuera de la pantalla. Para un diseño consciente, la simulación debe ser entendida como una herramienta predictiva, pero el valor final no reside en la estética de la imagen digital, sino en cómo el dispositivo interactúa y funciona eficazmente en el mundo físico.
 
-Lo que más me marcó de esta lectura fue el concepto de 'funcionario'. Flusser advierte que, si solo seguimos las reglas del aparato, dejamos de ser creadores. Al venir del mundo de la ingeniería, sentía que a veces te enseñan a seguir patrones, fórmulas dadas, recopilar datos y ver problemáticas de forma estructurada. Pero al entrar en Diseño, entendí que esta carrera te entrega libertad, aunque es una libertad que hay que ganar.
+Cap. 8: El diccionario de conceptos básicos (La libertad como juego)
 
-Siento que para diseñar de verdad hace falta una cuota de rebeldía interna. Si no tienes ese cuestionamiento mental o esa madurez para ver más allá, terminas simplemente cumpliendo con lo que el sistema te pide. La originalidad nace de esa rebeldía de querer forzar al aparato (ya sea el KiCad o la vida misma) a que haga algo más, algo que salió de tu cabeza y no de un manual. Mi meta con este proyecto de filtros es esa, usar la técnica no para repetir patrones, sino para demostrar que lo que uno crea en la mente puede ser real si no dejas que el 'programa' limite tu visión. Es, finalmente, dejar de ser funcionaria para ser una artesana con pensamiento propio.
+En este capítulo, Flusser define los términos clave para entender la relación entre el ser humano y la técnica:
 
- **"No te fijes solo en los árboles, fíjate en quién plantó el bosque".**
+   1. El Programa: El conjunto de posibilidades limitadas que el software o la máquina ya tiene definidas.
+   2. El Funcionario: El usuario que opera el aparato siguiendo solo las reglas previstas, sin cuestionar el sistema.
+   3. La Libertad: La capacidad de "jugar contra el aparato", forzándolo a generar resultados que no estaban en su manual original.
 
----
+Este glosario nos advierte sobre el riesgo de convertirnos en simples funcionarios de la herramienta. En el diseño de máquinas, la madurez profesional consiste en entender el programa para no ser dominados por él. La verdadera libertad creativa aparece cuando dejamos de ejecutar procesos automáticos y empezamos a proponer soluciones originales que desafían la lógica del software.
+
+Cap. 9: El objetivo de la filosofía (La meta del diseñador rebelde)
+
+El libro cierra diciendo que la filosofía sirve para entender cómo los aparatos nos programan. Mi conclusión es que, para ser una verdadera artesana tecnológica, tengo que ser capaz de ver el bosque completo. Como mencioné anteriormente, "No te fijes solo en los árboles, fíjate en quién plantó el bosque". Cuestionar quién puso las reglas del sistema es lo que me permite ser original. 
+
+ *Al final, la técnica debe ser el pincel, nunca el artista...*
 
 ### Referencias
 
