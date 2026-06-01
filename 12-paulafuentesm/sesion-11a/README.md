@@ -11,6 +11,8 @@ Una vez completado el esquemático, realizamos una revisión detallada y detecta
 
 En el segudo bloque teniamos todos los componentes por lo que pudimos armarlo, esto nos hizo darnos cuenta de algunos errores. 
 
+![propuesta01](https://github.com/paulafuentesm/dis8644-2026-1-procesos-2/blob/d3ded8bb6f8ecf4b81141c8559e627387f332b99/12-paulafuentesm/sesion-11a/imagenes/propuesta01.jpg)
+
 ### Problemas que pudimos ver despues ( arreglar ): 
 
 + Falta una etapa de amplificación de audio para alimentar correctamente el parlante y que el sonido pueda salir más fuerte. No está definida una salida de audio final para conectar el parlante.
