@@ -83,8 +83,7 @@ Y MIRA COMO SUENA EL BABY!:
 ## Capitulo semi final y final (8 y 9)
 
 
-
-Esto lo pondre para analizarlo porque lo puse antes y era para esta clase XCCCCC
+Rodeados de redundancia, que poetico es el tema de las fotógrafias redundantes que solo siguen y siguen siendo más irrelevantes para el ojo humano. Estamos bombardeados de estas fotos por y para siempre.
 
 
 Conteo enumerado *Extracto del texto*
@@ -98,3 +97,12 @@ Conteo enumerado *Extracto del texto*
 - 4 Cuarto, cada fotografía es una superficie, una imagen, que sirve de modelo para la conducta de su receptor.
 
 *En resumen, el universo fotográfico es un medio para programar en la sociedad una conducta retroalimentadora en función de un juego de combinaciones*
+
+
+
+Pero significativamente, la fotógrafia puede ser tanto una condena, como una libertad para el ser humano. 
+
+Como todo en general. Somos libres de comunicarnos, pero también de manipular con nuestras palabras. Lo mismo con las fotos redundantes, rebuscadas, modificadas y alteradas. 
+
+Todo lleno de combinaciones hechas por y para nosotres.
+
