@@ -37,28 +37,80 @@ Pues una que otra huella tuvimos que ponerlas de otra biblioteca ¿Pero como?
 
 - Paso 1: Instalamos los archivos y los metemos en una carpeta con el nombre específico dis8644.pretty.
 
-![Proceso de reloj y secuenciador](./imagenes/procesito.png)
+![1](./imagenes/paso_uno.png)
   
 - Paso 2: Esa carpeta la metemos en una carpeta que almacenará todas nuestras bibliotecas, como: "MyFootPrints" (al menos de una manera ordenada)
 
-![Proceso de reloj y secuenciador](./imagenes/procesito.png)
+![2](./imagenes/paso_dos.png)
   
 - Paso 3: Abrimos KiCad y nos vamos al apartado de preferencias
 
-![Proceso de reloj y secuenciador](./imagenes/procesito.png)
+![3](./imagenes/paso_tres.png)
   
 - Paso 4: Abajo de la ventana deberíamos ver un icono de carpeta pequeño y buscamos entre nuestras carpetas la de dis8644.pretty (dándole doble clic en el proceso)
 
-![Proceso de reloj y secuenciador](./imagenes/procesito.png)
+![4](./imagenes/paso_cuatro.png)
   
 - Paso 5: Aceptamos y nos vamos a nuestro esquemático
 
-![Proceso de reloj y secuenciador](./imagenes/procesito.png)
+![5](./imagenes/paso_cinco.png)
   
 - Paso 6: Para verificar, nos vamos a la lista de huellas y, si anteriormente fueron asignadas, entonces no saldrá ningún error
 
-![Proceso de reloj y secuenciador](./imagenes/procesito.png)
+![P6](./imagenes/final.png)
 
 y TADA! 
+
+![MiWife](./imagenes/ragatha.gif)
+
+*Nadie lee estas cosas pero bueno, si alguien me esta sapeando espero le haya servido :3)*
+
+---
+
+Ya con eso visto, falta la PCB 
+
+Para este trabajo le di el relevo a la Vania porque soy media lentita con eso. PERO HICE LA FORMA DEL CORAZÓN
+
+Dejé una carpeta en donde se pueden ver todos los intentos y en general hay varias cosas para aclarar:
+
+- El formato si o si debe ser en **svg** y no en otro (nuestros 2 primeros intentos fueron en dxf y no funciona)
+
+- Aunque en illus (nuestro caso) se haga el grafico en una medida especifica, al momento de pasarlo a la placa, es muy probable que sea más pequeña
+
+- Se puede aumentar si al momento de importarla se agranda la escala de a poco
+
+- Al momento de hacer un grafico para que sea la forma de la placa, la figura debe estar rellena de "negro" y debe estar bien cerrada o el programa tirará mil errores
+
+![Proceso de reloj y secuenciador](./imagenes/CorazonForma.png)
+
+![Proceso de reloj y secuenciador](./imagenes/error.png)
+
+Y así se verá al final!:
+
+![Proceso de reloj y secuenciador](./imagenes/cute.png)
+
+## Con los cambios en el esquematico para finalizar:
+
+Se colocó la alimentación:
+
+![Proceso de reloj y secuenciador](./imagenes/alimentacion.png)
+
+Se añadió la salida/Jack
+
+![Proceso de reloj y secuenciador](./imagenes/jack.png)
+
+Y los MountingHoles!
+
+![Proceso de reloj y secuenciador](./imagenes/mouting.png)
+
+---
+
+### Y SE ACABO!
+
+fue un proceso largo, pero se ha conseguido!
+
+Mañana debería ver si las huellas están bien puestas porque las especificaciones se subieron un poco después y no sé si sean las mismas... Si no lo son, seguramente me asesinen ( ╥ω╥ )
+
+Nota: Creo que estan bien...solo estoy loca 〣( ºΔº )〣
 
 
