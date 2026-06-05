@@ -75,6 +75,3 @@ A veces hay que pensar que no entenderás todo lo que lees, quizás leas un libr
 - A veces las preguntas nos ayudan.
 - Hay que quitarse el miedo.
 
-### imagenes de proceso
-
-### post-clase
