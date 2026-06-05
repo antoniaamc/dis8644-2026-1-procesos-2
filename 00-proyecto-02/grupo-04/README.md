@@ -102,6 +102,7 @@ tratando de emocionar a otros hombres.
 
 —Calidoscopio - Ray Bradbury
 
+![comunicacion](./imagenes/comunicacion.jpg)
 *imagen: Schauer, K. (2021)*
 
 El sonido generado por el oscilador puede asemejarse al de una llamada o transmisión espacial dependiendo de cómo se regulan las ondas. El chip CD40106 tiene una compuerta inversora o Schmitt Trigger; si la entrada está en 0, la salida pasa a 1 y cuando la entrada está en 1, la salida pasa a 0.
