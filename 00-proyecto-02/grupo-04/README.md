@@ -140,19 +140,14 @@ A este oscilador en un futuro, le podemos añadir un secuenciador chip CD4040 qu
 
 ### Esquemático 2
 
-```markdown
 ![esquemático circuito](./imagenes/esquematico-2.png)
-```
+
 
 ### PCB 2
 
-```markdown
 ![pcb front](./imagenes/pcb-front-2.png)
-```
-
-```markdown
 ![pcb back](./imagenes/pcb-back-2.png)
-```
+
 
 ### Documentación audiovisual funcionamiento protoboard 2
 
