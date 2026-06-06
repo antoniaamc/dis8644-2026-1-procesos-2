@@ -24019,6 +24019,19 @@
 		(layer "Edge.Cuts")
 		(uuid "8e63d088-b703-4280-a2db-62da84aac69b")
 	)
+	(gr_text "g-02-sec-02-rev-a"
+		(at 119.359068 57.176757 0)
+		(layer "F.SilkS")
+		(uuid "2cfc7eff-73e3-44fa-91d5-c26e1357061b")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 184.538 70.5)
 		(end 189.913 75.875)
