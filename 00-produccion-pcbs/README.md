@@ -8,3 +8,14 @@ hay 6 grupos de trabajo con una temática en particular, cada grupo realizó 2 e
 
 a continuación los apuntes de las distintas revisiones hechas de estos proyectos, para prepararlos para su producción física.
 
+## grupo-01
+
+## grupo-02
+
+## grupo-03
+
+## grupo-04
+
+## grupo-05
+
+## grupo-06
