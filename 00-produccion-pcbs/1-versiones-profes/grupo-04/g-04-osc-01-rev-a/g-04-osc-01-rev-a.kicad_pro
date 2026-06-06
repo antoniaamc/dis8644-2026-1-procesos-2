@@ -503,7 +503,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "OSCILADOR.kicad_pro",
+    "filename": "g-04-osc-01-rev-a.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -539,7 +539,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "./",
-      "plot": "",
+      "plot": "../../../2-archivos-produccion/g-04-osc-01-rev-a/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -658,18 +658,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "OSCILADOR.kicad_sch",
-        "name": "Raíz",
+        "filename": "g-04-osc-01-rev-a.kicad_sch",
+        "name": "g-04-osc-01-rev-a",
         "uuid": "067fa951-f845-4cef-9329-05d74925117e"
       }
     ],
-    "used_designators": "H1-4",
+    "used_designators": "#PWR11,R8,H1-4",
     "variants": []
   },
   "sheets": [
     [
       "067fa951-f845-4cef-9329-05d74925117e",
-      "Raíz"
+      "g-04-osc-01-rev-a"
     ]
   ],
   "text_variables": {},
