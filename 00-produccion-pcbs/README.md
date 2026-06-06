@@ -8,11 +8,12 @@ hay 6 grupos de trabajo con una temática en particular, cada grupo realizó 2 e
 
 a continuación los apuntes de las distintas revisiones hechas de estos proyectos, para prepararlos para su producción física.
 
-en este repo creamos 3 carpetas:
+en este repo creamos 4 carpetas:
 
 - 0-versiones-estudiantes: archivos de kicad con las versiones más recientes de proyectos de estudiantes
 - 1-versiones-profes: archivos de kicad con las versiones revisadas y realizadas por equipo docentes
-- 2-archivos-produccion: gerbers de producción, etiquetados como revA.
+- 2-archivos-produccion: gerbers de producción, etiquetados como rev-a.
+- 3 archivos-produccion-zip: cada carpeta comprimida en .zip, para el envío a la fábrica jlcpcb.
 
 ## grupo-01: piezos
 
