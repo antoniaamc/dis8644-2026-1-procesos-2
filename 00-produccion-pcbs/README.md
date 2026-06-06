@@ -48,6 +48,8 @@ en pcb:
 
 en esquemático:
 
+- agregamos también resistores de protección en entradas y salidas.
+
 en pcb:
 
 ## grupo-03: osciladores 1

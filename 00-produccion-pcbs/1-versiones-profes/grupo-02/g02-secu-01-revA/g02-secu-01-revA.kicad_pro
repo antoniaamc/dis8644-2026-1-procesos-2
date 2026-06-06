@@ -503,7 +503,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "secuenciador-01-v03.kicad_pro",
+    "filename": "g02-secu-01-revA.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -658,8 +658,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "secuenciador-01-v03.kicad_sch",
-        "name": "secuenciador-01-v03",
+        "filename": "g02-secu-01-revA.kicad_sch",
+        "name": "g02-secu-01-revA",
         "uuid": "775ddcce-7399-4327-91c6-577fa9692cfa"
       }
     ],
