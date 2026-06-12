@@ -30,4 +30,14 @@ Partitura de gamelan
 
 Hay muchas obras de jhon cage donde destruia su ego en la composición y faltaba al respeto totalmente al piano
 
-Muestra de como 
+Muestra de como
+
+---
+
+Avance en clases
+
+makerworld, pagina donde hay modelos 3D donde se pueden editar los parametros
+
+Evaluamos y tenemos en cuanta la posibilidad de mezclarlo con un concepto mas de naturaleza donde apliquemos semillas de chia en donde talvez usemos sensores de proximidad o las resistencias LDR para generar una istrucción de partitura de salir y ponerse debajo de un arbol en un día soleado, cosa que haria sonar variado el resultado
+
+y hablando con misa podemos utilizar nuestras propias resistencias
