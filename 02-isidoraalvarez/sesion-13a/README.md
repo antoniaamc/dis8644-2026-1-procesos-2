@@ -14,8 +14,11 @@ Esto debe venir acompañado de una carcasa. nosotros veremos si lo hacemos modul
 
 Nos gustaria mezclar lo que es plantas o flores con metal
 
-![imagen](./imagen/)
+![imagen](./imagenes/idea-01.jpg)
 
+![imagen](./imagenes/idea-02.jpg)
+
+## **TEXTO YOKO ONO**
 
 
 
