@@ -105,34 +105,9 @@ Para poder fabricar y generar los archivos correspondientes, necesitamos mínimo
 ![KICAD](./imagenes/sc63.png)
 
 
-11. 
+11. Finalmente, podemos pedir nuestras PCB a China
 
-
-Gerber ➣ formato pcb
-
-➣ 7 capas mínimo
-
-  ➣ Cu F-B / silkscreen (Dibujos) /Edge Cut F- B(contorno)/Mask F-B (mascara)
-
----
-    
-➣Trazar / Plot 
-
-➣ Config estándar 
-
-  ➣Trazar
-	
-  ➣Generar archivos de taladrado 
-	
-  ➣8 archivos >.GRL / .GRB
-
----
-
-➣Vizor Gerber (KiCad)
-
-  ➣ Mascara (funciona en negativo)		
-
-➣ Comprimir > .ZIP
+![KICAD](./imagenes/sc64.png)
 
 <br>
 
@@ -152,19 +127,23 @@ Creo que poseo una visión bastante industrial, pero estoy tratando de hacer un 
 
 1. En base a la experiencia que he vivido con la electrónica, donde pareciera ser que todo funciona por su propía cuenta, pensaba en que el sintetizador funcionara únicamente por el ambiente, que nosotros como usuarios no podamos modificar activamente el sonido. Por lo mismo, la carcasa debe seguir esta lógica y pensaba en posibles salidas
 
-   - Un material sólido y rígido que no permita manipular el sinte mediante potenciometros, es decir acero o cemento
+ - Un material sólido y rígido como cemento o acero. Que además no permita manipular el sinte mediante potenciometros
   
-     [IMAGEN 1]
+     ![IMAGEN 1](./imagenes/idea01.jpg)
 
-     [IMAGEN 2]
+     ![IMAGEN 2](./imagenes/idea02.jpg)
 
-     <br>
+     ![IMAGEN 3](./imagenes/idea03.jpg)
 
-    - Materiales organicos que se infiltren y camuflen con la naturaleza, como podría ser un tronco de madera en bruto o demás
+
+<br>
+
+- Materiales organicos que se infiltren y camuflen con la naturaleza, como podría ser un tronco de madera en bruto o demás
     
-     [IMAGEN 1]
+     ![IMAGEN 1](./imagenes/idea04.jpg)
 
-     [IMAGEN 2]
+     ![IMAGEN 2](./imagenes/idea05.jpg)
+
 
      <br>
 
