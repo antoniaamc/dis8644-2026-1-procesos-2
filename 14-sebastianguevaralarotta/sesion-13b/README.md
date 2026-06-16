@@ -167,3 +167,5 @@ Fin.
 [portada pdf.pdf](https://github.com/user-attachments/files/28983407/portada.pdf.pdf)
 [interior partitura pdf.pdf](https://github.com/user-attachments/files/28983403/interior.partitura.pdf.pdf)
 
+<img width="2362" height="3307" alt="partitura 2 jpg" src="https://github.com/user-attachments/assets/8f4b2fff-282f-4f57-8c15-a363ee725315" />
+
