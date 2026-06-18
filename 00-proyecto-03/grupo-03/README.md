@@ -56,6 +56,15 @@ Definimos con cuál PCB de otro grupo queríamos trabajar e implementar en nuest
 
 De la misma manera, soldamos a Relo con los componentes que teníamos disponibles. 
 
+## Partituras 
+
+
+
+
+
+
+
+
 
 
 
