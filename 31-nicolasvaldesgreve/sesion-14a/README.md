@@ -33,6 +33,7 @@ Para soldar tuvimos que hacer un poquito de fila, lo que nos dio tiempo para ver
 Al final todo el día fue sobre soldar, lo cual fue muy entretenido. La PCB que estuvimos soldando finalmente quedó así:
 
 ![Maincra con soldadura jiji](./imagenes/maincra-casi-lista.jpg)
+Foto tomada por chknngttts, agradecido por su donación a mi bitácora.
 
 ---
 
