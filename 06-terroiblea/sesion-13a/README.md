@@ -118,3 +118,68 @@ Más que nada me gustaría que no fuera para nada convencional, algo muy diverti
 
 Leer capítulo 1 y 2 del libro Pomelo de Yoko Ono, compartir apuntes y reflexiones críticas sobre el texto, prohibido usar inteligencia artificial, no sirve para este ejercicio.
 
+Antes de comenzar:
+
+### Sobre Yoko Ono
+
+Es una artista, música, escritora y activista japonesa-estadounidense, reconocida como una de las figuras más influyentes del arte conceptual y la performance del siglo XX. 
+
+Aunque muchas personas la conocen por su relación con John Lennon, su carrera artística ya estaba consolidada antes de conocer al integrante de The Beatles.
+
+Antes de la fama mediática, Ono realizaba obras experimentales en Nueva York. Muchas de ellas consistían en instrucciones o acciones simples que requerían la participación del público.
+
+Entre sus obras más conocidas están:
+
+- **Grapefruit (1964):** un libro de instrucciones poéticas y conceptuales que invita al lector a completar la obra con su imaginación.
+- **Cut Piece (1964):** una performance en la que Ono permanecía sentada mientras el público cortaba partes de su ropa. La obra explora temas como la vulnerabilidad, la violencia y el rol de la mujer.
+- **Wish Tree:** instalación participativa donde los visitantes escriben deseos y los cuelgan en un árbol.
+
+Además de su trabajo artístico, Ono ha participado activamente en campañas por: La paz mundial, los derechos humanos, el feminismo, la no violencia y la libertad de expresión.
+
+### Sobre el Libro 
+
+Pomelo. Un libro de instrucciones de Yoko Ono. 
+
+"Este libro se presenta como una serie de instrucciones que invitan a desvincularse, por medio de la contemplación, de un mundo enajenado por el consumo y la producción frenética de información y mercancía. En esta pieza, en la que Ono explora la relación entre el arte y la vida a partir de fenómenos cotidianos, el detenerse a observar y/o escuchar se vuelve una experiencia artística en sí misma."
+
+- Pomelo es el título en español del libro Grapefruit de Yoko Ono, publicado originalmente en 1964. Es una de las obras más importantes del arte conceptual y del movimiento Fluxus.
+
+**Fluxus:** movimiento vanguardista internacional de los años 60 y 70 que fusionaba artes visuales, música y literatura, caracterizado por sus provocativos espectáculos y "happenings". Se declaró como "anti-arte", rechazando el arte tradicional como mercancía y buscando fusionar la vida cotidiana con la expresión creativa de manera simple, lúdica y sin pretensiones.
+
+- Pomelo no es una novela ni un libro tradicional. Está compuesto por "instrucciones" o "event scores" que son breves textos que invitan al lector a imaginar, realizar acciones o reflexionar sobre ellas (muchas veces la obra existe solo en la mente de quien la lee). La idea es que la imaginación del espectador complete la obra, cuestionando qué puede considerarse arte.
+- _"Transformar actos imposibles o cotidianos en experiencias artísticas mediante la imaginación"_.
+
+![pomelo](./imagenes/pomelo.png) 
+
+### Desarrollo del libro (general)
+
+Primera impresión del libro. Me gustó muchísimo más de lo que esperaba (lo juzgué antes de tiempo, pido perdón).  
+
+Si bien se menciona antes, el libro está lleno de pequeñas instrucciones (que como extra sirven de ejemplo de partitura en relación a lo que estamos realizando ahora en el proyecto 03) que son como ideas (supongo) de lo que se debería realizar desde una perspectiva poética e imaginativa (considerando que hay cosas que no son tan realizables en la realidad, pero sí en la imaginación).
+
+Leí por ahí que el lector deja de ser un receptor pasivo y pasa a convertirse en intérprete y creador, y me gusta mucho el concepto de ser parte de la obra, tanto como si realmente se hiciese en algún momento la interpretación de la instrucción, así solo sea algo que se imagina (en mi caso puedo imaginarme perfectamente todas las instrucciones; creo que por eso me gustó tanto, me sentí parte de lo leído). 
+
+Diría que la obra puede existir únicamente en la imaginación de quien lee. 
+
+Muchas propuestas dirigen la atención hacia acciones cotidianas o fenómenos naturales que normalmente ignoramos o no vemos desde una perspectiva más artística.
+
+Si bien cada capítulo tiene nombre de un tipo de arte o algo relacionado a eso (música, pintura, eventos, poesía, objetos), las instrucciones no necesariamente tienen que ver con lo que convencionalmente uno relacionaría a estos; es decir, en las instrucciones de música no es que alguien necesite saber tocar un instrumento, en pintura no es que alguien tenga que saber pintar; las instrucciones son más abstractas o metafóricas, no implican directamente utilizar como tal elementos relacionados con la categoría. 
+
+Muchas veces se siente que el proceso creativo o del desarrollo de la instrucción es más relevante que el resultado final.
+
+Me gustaría tener el libro en físico. 
+
+### Capítulo 1: Música
+
+- El sonido puede ser real, imaginado o incluso inexistente.
+
+Mis favoritos: 
+
+Algo que definitivamente realizaría: 
+
+### Capítulo 2: Pintura 
+
+Mis favoritos: 
+
+Algo que definitivamente realizaría: 
+
