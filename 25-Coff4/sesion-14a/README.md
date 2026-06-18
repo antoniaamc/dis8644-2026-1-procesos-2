@@ -23,16 +23,18 @@ Por mi lado me tocó crear la segunda partitura del sintetizador.
 Para ello dividí las 3 partes en códigos de colores:
 
 🟡 Color representativo de las abejas.
+
 🔴 Color de los corazones.
+
 🟠 Color de los pájaros Chirihue (también para no repetir el amarillo de las abejas).
 
 Cada una de las líneas en la partitura representan ciertas cosas:
 
-Las notas:
+## Las notas:
 
 - Para las abejas, se hicieron las líneas que se usan para ilustrarlas de manera caricaturesca.
 
-- ![*chirihue mecanizado*](./imagenes/abeja.jpg)
+![*chirihue mecanizado*](./imagenes/abeja.jpg)
 
 
 - El corazón es representado con los signos vitales que se pueden ver en una máquina... de signos vitales.
@@ -44,6 +46,7 @@ Las notas:
 ![*chirihue mecanizado*](./imagenes/ave.jpg)
 
 *Los espectrogramas son un gráfico visual que muestran los sonidos o señales acústicas registradas.*
+
 
 Por el lado izquierdo de la partitura, se dividió en 5 partes iguales para medir el volumen, siendo la línea del centro el valor medio del volumen en general, considerando el valor mínimo (0) y el máximo (100).
 
