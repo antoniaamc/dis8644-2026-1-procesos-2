@@ -30,7 +30,24 @@ Integrantes:
 
 
 
-### Chirigüe mecanizado: Grupo 4
+### Alo Houston: Grupo 5
+
+| Referencia | Valor | Cantidad | Costo Unitario (CLP) | Subtotal (CLP) |
+|------------|--------|----------|----------------------|----------------|
+| Capacitor ceramico | 103 | 2 | $150 | $300 |
+| Capacitor ceramico | 104 | 1 | $150 | $150 |
+| Capacitor ceramico | 102 | 1 | $150 | $150 |
+| Capacitor polarizado | 4.7 µF / 16 V | 2 | $140 | $280 |
+| Resistencias | 10 kΩ | 2 | $90 | $180 |
+| Resistencias | 1 kΩ | 1 | $100 | $100 |
+| Potenciometros | 100 kΩ | 2 | $490 | $980 |
+| **Total** | | | | **$2.140** |
+
+
+
+
+### Chirigüe mecanizado: Grupo 4 - Oscilador
+
 
 | Componente | Cantidad | valor unitario | link/Comprar |
 |------------|----------|--------------|---------|
@@ -44,7 +61,7 @@ Integrantes:
 | Resistencia 1 kΩ | 6 | $100 CLP | https://www.mechatronicstore.cl/resistencia/ | | LED | 2 | $300 CLP | https://www.mechatronicstore.cl/led-intermitente-5mm/ | 
 
 
-###  Lub-dub: Grupo 6
+###  Lub-dub: Grupo 6 - Percutor
 
 | Componente | Cantidad | valor unitario | link/Comprar |
 |------------|----------|--------------|---------|
@@ -63,7 +80,7 @@ Integrantes:
 | Led | 1 | $100 | <https://www.mechatronicstore.cl/led-3mm-5mm/> |
 
 
-###  Nyan Cat: Grupo 2
+###  Nyan Cat: Grupo 2 - Secuenciador 
 
 | Componente | Cantidad | valor unitario | link/Comprar |
 |------------|----------|--------------|---------|
@@ -96,8 +113,8 @@ Integrantes:
 
 ### Propuesta 1
 
-![partitura portada](./imagenes/partitura1.png)
-![partitura pasos](./imagenes/partitura2.jpg)
+![partitura 3 portada](./imagenes/partituraexterior.jpg)
+![partitura 3 ](./imagenes/partitura-interior.jpg)
 
 ### Propuesta 2
 
@@ -106,8 +123,8 @@ Integrantes:
 
 ### Propuesta 3 
 
-![partitura 3 portada](./imagenes/partituraexterior.jpg)
-![partitura 3 ](./imagenes/partitura-interior.jpg)
+![partitura portada](./imagenes/partitura1.png)
+![partitura pasos](./imagenes/partitura2.jpg)
 
 
 
