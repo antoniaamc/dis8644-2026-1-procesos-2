@@ -31,16 +31,16 @@ También hablamos de carcasas en donde misa y aarón nos mostraron algunos refer
 
 **Pedales de guitarra**
 
-[IMAGEN]
+![imagen referencia](./imagenes/pedalguitarra.jpg)
 
 
 **Euroracks**
 
-[IMAGEN]
+![imagen referencia](./imagenes/eurorack.jpg)
 
 **Placa a la vista**
 
-[IMAGEN]
+![imagen de referencia](./imagenes/placavista.jpg)
 
 
 ## Capitulo 1 y 2 de Yoko Ono
