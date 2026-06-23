@@ -53,3 +53,14 @@ Porque yo me lo tomó de manera literal, y aunque estos tipos de partes del cuer
 Me gusta esto de rebajarnos a objetos para poder ver un poquito diferente nuestro pellejo al cual estamos acostumbrados a ver. 
 
 ### Capítulo 6 - Cine
+
+Ouh, este capítulo es mucho más corto que el anterior, y al parecer, para realizar estos “ejercicios”, se necesita una sala de cine, o quizá la sala de la casa, y muchas personas…, o 2. 
+De este capítulo no tengo mucho que decir, pero este me gustó mucho, porque me encantaría ver las diversas maneras de escrituras, colores de lapiceros, etc…, de las personas que llegasen a participar de esta “film”, conmigo: 
+
+![2](./imagenes/film-total.png)
+
+Algo que he notado hasta ahora del libro, es la manera grotesca y como ruda de la autora de escribir y de enfrentar al lector en ciertas cosas, como en el formulario final…, que supongo yo que sus pensamientos intrusivos le ganaron, y dice: ¿DIRÍA QUE USTED ES MÁS BIEN UNA PERSONA BOBA?, literalmente, me encanta. 
+
+(Enfréntese a usted mismx a ver cómo le va).
+
+Fin. C:
