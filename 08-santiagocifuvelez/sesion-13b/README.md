@@ -21,6 +21,19 @@ Y fue aquí donde vivos algunos ejemplos de partituras experimentales, como esta
 
 ## 2.	Ajustes, avances y puntos clave para la entrega del proyecto 3 (partituras).  
 
+- En esta clase, mi grupo y yo estábamos un poquito tostadesss, porque como no sabemos como va a sonar el synthe, no podemos como imaginar algún concepto que nos llene las entrañas, pero bueno, supongo que ese será el reto. <br> <br> Pero mientras, comenzamos a tener una lluvia de ideas sobre las posibles partituras experimentales que realizaríamos, y tuvimos la idea de integrar el cuerpo con el sonido, o sea, que la partitura haga que la o el espectador tengan que involucrarse. 
+
+- También estuvimos viendo que posibles controladores de energía podríamos usar, para reemplazar los potenciómetros, tales como: **LDR, softspot y termistor.**
+  
+
+- Para culminar este apartado, escogimos también las placas con las cuales vamos a trabajar, las cuales son: 
+
+> •	Chirihue Mecanizado (Pájaro) – oscilador
+
+> •	Secuenciador 02 – Grupo (<https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/tree/main/00-proyecto-03/grupo-02>) 
+
+> •	Relo - Clock - Misa y Áaron (profes)
+
 Avance del primer BOM
 | Componente | Cantidad | Valor unitario | Link/Comprar |
 |------------|----------|--------------|---------|
