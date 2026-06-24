@@ -7,8 +7,6 @@ No pude estar muy presente en esta sesión, tuve que atender mis compromisos y m
 
 Antes de exportar la PCB, es importante revisar que las zonas de cobre estén correctamente rellenadas y ejecutar **DRC (Design Rules Checker)** para detectar posibles errores antes de enviar los archivos finales.
 
----
-
 ## 1. Selección de capas para exportación
 
 Para que el fabricante acepte el diseño, hay que incluir las capas necesarias dentro de la sección **Trazar (Plot)**.
@@ -23,8 +21,6 @@ Las capas obligatorias son (7):
 - **F.Silkscreen:** serigrafía frontal, textos y elementos visuales.
 - **B.Silkscreen:** serigrafía trasera.
 
----
-
 ## 2. Generación de archivos
 
 ### Archivos Gerber
@@ -38,8 +34,6 @@ Esto genera los archivos **.gbr**, que contienen la información necesaria de ca
 Luego se debe seleccionar **Generar archivos de taladrado**.
 
 Estos archivos son importantes porque indican dónde deben realizarse los agujeros de la placa. Se generan archivos con extensión **.drl**.
-
----
 
 ## 3. Revisión y entrega final
 
